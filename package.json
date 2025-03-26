@@ -1,0 +1,14 @@
+{
+  "name": "static-web-template",
+  "version": "1.0.0",
+  "description": "NodeJS Static Web Template",
+  "main": "server.js",
+  "scripts": {
+    "server": "node server.js"
+  },
+  "author": "JachuOfficial",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
