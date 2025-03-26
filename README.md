@@ -1,9 +1,9 @@
 # Nodejs Static Web Template
 
 - [Getting Started](#getting-started)
-  - [Requisites](#requisites)
-  - [Installation](#installation)
- 
+- [Deploy to Vercel](#deploy-to-vercel)
+
+  
 # Getting Started
 
 ## Using Stackblitz
